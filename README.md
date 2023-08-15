@@ -8,5 +8,26 @@ My **Todo app** is a task management app to help you stay organized and manage y
 - Database : Mysql
 
 
-## Add Task
+## Add Task :
 ![screenshot 1](react-todo-screenshots/1.png)
+
+## New Task Added :
+![screenshot 1](react-todo-screenshots/2.png)
+
+## Edit Task :
+![screenshot 1](react-todo-screenshots/3.png)
+
+## Task get Edited :
+![screenshot 1](react-todo-screenshots/4.png)
+
+## Delete Task :
+![screenshot 1](react-todo-screenshots/5.png)
+
+## Task get Deleted :
+![screenshot 1](react-todo-screenshots/6.png)
+
+## Backend Code Demo :
+![screenshot 1](react-todo-screenshots/7.png)
+
+## Frontend Code Demo :
+![screenshot 1](react-todo-screenshots/8.png)
