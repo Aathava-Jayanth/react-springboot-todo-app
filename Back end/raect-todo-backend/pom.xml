@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aathava</groupId>
-	<artifactId>raect-todo</artifactId>
+	<artifactId>raect-todo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>raect-todo</name>
+	<name>raect-todo-backend</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
