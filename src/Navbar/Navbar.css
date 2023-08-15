@@ -1,0 +1,15 @@
+.my-navbar
+{
+    padding: 10px;
+    background-color: rgb(115, 3, 200) !important;
+}
+
+.nav-link
+{
+    color: #fff;
+    text-align: right;
+    margin: 10px;
+    border: solid #fff !important;
+}
+
+

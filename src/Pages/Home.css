@@ -1,0 +1,40 @@
+.sample-container
+{
+    background-color: rgb(115, 3, 200) !important;
+    min-height: 500px;
+}
+
+.table-container th,td
+{
+    text-align: center;
+}
+
+.row-container
+{
+    padding: 50px;
+    
+}
+
+.table
+{
+    border-width: 5px !important;
+    border-style: solid !important;
+}
+
+.my-btn
+{
+    background-color: rgb(115, 3, 200) !important;
+    color: white;
+    outline: none;
+    border: none;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+
+.my-btn:focus
+{
+    background-color: rgb(141, 51, 209) !important;
+    color: white;
+    outline: none;
+    border: none;
+}

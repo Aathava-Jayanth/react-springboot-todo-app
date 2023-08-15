@@ -1,0 +1,30 @@
+.add-container
+{
+    background-color: white !important;
+    color: rgb(0, 0, 0) !important;
+    text-align: center;
+}
+
+.add-btn
+{
+    background-color: rgb(115, 3, 200) !important;
+    color: white;
+    outline: none;
+    border: none;
+    margin: 20px 10px;
+    cursor: pointer;
+}
+
+.add-btn:focus
+{
+    background-color: rgb(141, 51, 209) !important;
+    color: white;
+    outline: none;
+    border: none;
+}
+
+.add-input
+{
+    width: 300px;
+}
+
